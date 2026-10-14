@@ -1,4 +1,4 @@
-# SE Lab 5: Static Code Analysis
+# Static Code Analysis
 
 ## 1. Pylint Findings
 
