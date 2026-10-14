@@ -1,4 +1,4 @@
-# Lab 5: Static Code Analysis — Energy Consumption & Tariff Calculator
+Static Code Analysis — Energy Consumption & Tariff Calculator
 
 **Your file:** `energy_system.py`
 
